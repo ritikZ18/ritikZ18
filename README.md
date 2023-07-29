@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Community Forum.<br>👯 I’m looking to collaborate on Supply Chain Managment.<br>🤝 I’m looking for help with Blockchain.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about Life .<br>⚡ Fun fact I m Deaf'.<br>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/ritikZ18/ritikZ18/assets/116812243/8af48b24-34f5-400d-9dc2-b8cc72a196d3)
+🔭 I’m currently working on Community Forum.<br>👯 I’m looking to collaborate on Supply Chain Managment.<br>🤝 I’m looking for help with Blockchain.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about Life .<br>⚡ Fun fact I m Deaf.<br>
+ <img align="right" alt="Coding" width="400" src="![image](https://github.com/ritikZ18/ritikZ18/assets/116812243/8af48b24-34f5-400d-9dc2-b8cc72a196d3)
 ">
 
 
