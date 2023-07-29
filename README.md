@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Community Forum<br>👯 I’m looking to collaborate on SCM<br>🤝 I’m looking for help with Blockchain<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Life <br>⚡ Fun fact I m Deaf'
+🔭 I’m currently working on Community Forum.<br>👯 I’m looking to collaborate on Supply Chain Managment.<br>🤝 I’m looking for help with Blockchain.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about Life .<br>⚡ Fun fact I m Deaf'.
 
 
 ## 🌐 Socials:
