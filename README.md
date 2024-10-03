@@ -4,7 +4,9 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritik18.js) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ritik-zambre-3309aa204) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ritikZ18) [![LeetCode](https://img.shields.io/badge/LeetCode-%2300B5F.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/ritikZ18/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritik18.js) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ritik-zambre-3309aa204) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ritikZ18) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%2300B5F.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/ritikZ18/)
 
 
 # 💻 Tech Stack:
