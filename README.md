@@ -1,6 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on Community Forum.<br>👯 I’m looking to collaborate on Supply Chain Managment.<br>🤝 I’m looking for help with Blockchain.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about Life .<br>⚡ Fun fact I m Deaf.<br>
-
+# 💫 **About Me**  
+👨‍💻 **Graduate Student:** Pursuing a Master's in Computer Software Engineering at **Arizona State University (ASU)**.  
+🚀 **Current Project:** Building a feature-rich **Twitter Clone** – exploring scalability and real-time updates.  
+🤝 **Collaboration Goals:** Excited to team up on **System Design** learning and brainstorming!  
+🎯 **Seeking Help:** Preparing for **Software Development Interview** (SDI) roles – any tips are welcome!  
+🌱 **On My Radar:** Mastering the **Docker Stack** to streamline development workflows.  
+💡 **Let's Talk:** Whether it’s tech, creativity, or just life – I’m all ears!  
+🌸 **Fun Fact:** I’m deeply fascinated by **Japanese Culture** – from samurai legends to sushi art!  
 
 
 ## 🌐 Socials:
