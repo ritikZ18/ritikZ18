@@ -1,12 +1,12 @@
-# 💫 **About Me**  
-👨‍💻 **Graduate Student:** Pursuing a Master's in Computer Software Engineering at **Arizona State University (ASU)**.  
-🚀 **Current Project:** Building a feature-rich **Twitter Clone** – exploring scalability and real-time updates.  
-🤝 **Collaboration Goals:** Excited to team up on **System Design** learning and brainstorming!  
-🎯 **Seeking Help:** Preparing for **Software Development Interview** (SDI) roles – any tips are welcome!  
-🌱 **On My Radar:** Mastering the **Docker Stack** to streamline development workflows.  
-💡 **Let's Talk:** Whether it’s tech, creativity, or just life – I’m all ears!  
-🌸 **Fun Fact:** I’m deeply fascinated by **Japanese Culture** – from samurai legends to sushi art!  
 
+# 💫 **About Me**  
+👨‍🎓 **Graduate Student:** Pursuing a Master's in **Computer Software Engineering** at **ASU**.  
+🚀 **Project:** Developing a **Twitter Clone** with real-time updates.  
+🤝 **Collaboration:** Open to exploring **System Design** and innovative projects.  
+🎯 **Goal:** Preparing for **SDI interviews** – looking for tips and guidance!  
+🌱 **Learning:** Enhancing my skills in **Docker Stack**.  
+💡 **Let’s Chat:** Ask me about **tech, life**, or anything in between!  
+🌸 **Fun Fact:** I’m passionate about **Japanese Culture** – sushi, samurai, and beyond!  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritik18.js) 
