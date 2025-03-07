@@ -1,11 +1,11 @@
 
 # 💫 **About Me**  
-👨‍🎓 **Graduate Student:** Pursuing a Master's in **Computer Software Engineering** at **ASU**.  
-🚀 **Project:** Developing a **Twitter Clone** with real-time updates.  
+👨‍🎓 **Graduate Student:** Pursuing a Master's in **Computer Software Engineering** at **Arizona State University**.  
+🚀 **Project:** Developing a **Twitter Clone** and **Job Application Portal** as side projects.  
 🤝 **Collaboration:** Open to exploring **System Design** and innovative projects.  
 🎯 **Goal:** Preparing for **SDI interviews** – looking for tips and guidance!  
 🌱 **Learning:** Enhancing my skills in **Docker Stack**.  
-💡 **Let’s Chat:** Ask me about **tech, life**, or anything in between!  
+💡 **Let’s Chat:** Ask me about **Tech, Life**, or anything in beyond!  
 🌸 **Fun Fact:** I’m passionate about **Japanese Culture** – sushi, samurai, and beyond!  
 
 ## 🌐 Socials:
