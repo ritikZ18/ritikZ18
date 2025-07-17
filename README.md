@@ -9,8 +9,9 @@
 🌸 **Fun Fact:** I’m passionate about **Japanese Culture** – sushi, samurai, and beyond!  
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://ritik-zambre.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritik18.js) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ritik-zambre-3309aa204) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ritikZ18) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ritik-zambre) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ritikZ18) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2300B5F.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/ritikZ18/)
 
 
