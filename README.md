@@ -3,10 +3,11 @@
 👨‍🎓 **Graduate Student:** Pursuing a Master's in **Computer Software Engineering** at **Arizona State University**.  
 🚀 **Project:** Developing a **Twitter Clone** and **Job Application Portal** as side projects.  
 🤝 **Collaboration:** Open to exploring **System Design** and innovative projects.  
-🎯 **Goal:** Preparing for **SDI interviews** – looking for tips and guidance!  
+🎯 **Goal:** Preparing for **SDE interviews** – looking for tips and guidance!  
 🌱 **Learning:** Enhancing my skills in **Docker Stack**.  
 💡 **Let’s Chat:** Ask me about **Tech, Life**, or anything in beyond!  
-🌸 **Fun Fact:** I’m passionate about **Japanese Culture** – sushi, samurai, and beyond!  
+🌸 **Fun Fact:** I’m passionate about **Japanese Culture** – sushi, samurai, and beyond!
+🚀 **OPEN FOR DATING**
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=About.me&logoColor=white)](https://ritik-zambre.netlify.app/)
