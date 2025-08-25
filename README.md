@@ -6,7 +6,7 @@
 🤝 **Collaboration:** Open to exploring **System Design** and innovative projects.  
 🎯 **Goal:** Preparing for **SDE interviews** – looking for tips and guidance!  
 🌱 **Learning:** Enhancing my skills in **Docker Stack**.  
-💡 **Let’s Chat:** Ask me about **Tech, Life**, or anything in beyond! 
+💡 **Let’s Chat:** Ask me about **Tech, Life**, or anything in beyond!
 🌸 **Fun Fact:** I’m passionate about **Japanese Culture** – sushi, samurai, and beyond!
 😄 **Fun Twist:** Outside of code, I’m also exploring human connections – open to good conversations 🚀 **OPEN FOR DATING**!
 
