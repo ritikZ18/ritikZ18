@@ -1,6 +1,6 @@
 
 # 💫 **About Me**  
-**Software Developer** at Blue Clay Health
+👨‍💻 **Software Developer** at *Blue Clay Health*  
 👨‍🎓 **Graduate Student:** Pursuing a Master's in **Computer Software Engineering** at **Arizona State University**.  
 🚀 **Project:** Developing a **Twitter Clone** and **Job Application Portal** as side projects.  
 🤝 **Collaboration:** Open to exploring **System Design** and innovative projects.  
