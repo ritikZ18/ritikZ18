@@ -1,6 +1,6 @@
 
 # 💫 **About Me**  
-🌍 **Open Source Contributor** at *Gabriel AI* (building Sound Systems)
+🌍 **Open Source Contributor** at *Gabriel AI (building Sound Systems)*  
 👨‍💻 **Prev Software Developer** at *Blue Clay Health*  
 👨‍🎓 **Graduate Student:** Pursuing a Master's in **Computer Software Engineering** at **Arizona State University**.  
 🚀 **Project:** Developing Free Alternative for **Leetcode and System Design** and **Job Application Portal** as side projects.  
