@@ -25,6 +25,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=ritikZ18&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ritikZ18&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikZ18&layout=compact&theme=tokyonight)
+![](https://raw.githubusercontent.com/ritikZ18/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 
 ## 🏆 GitHub Trophies
