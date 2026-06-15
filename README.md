@@ -9,7 +9,7 @@
 🌱 **Learning:** Enhancing my skills in **Docker Stack**.  
 💡 **Let’s Chat:** Ask me about **Tech, Life**, or anything in beyond!  
 🌸 **Fun Fact:** I’m passionate about **Japanese Culture** – sushi, samurai, and beyond!  
-😄 **Fun Twist:** Outside of code, I’m also exploring human connections – open to good conversations 🚀 **OPEN FOR DATING**!
+
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=About.me&logoColor=white)](https://ritik-zambre.netlify.app/)
